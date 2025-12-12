@@ -1,0 +1,1 @@
+I know, that is not very good asset, but it was intended to use this asset in the dark (since SCP-938 is an electrical monster and no electrical lights are shining here...)
