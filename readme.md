@@ -48,4 +48,4 @@ You can use under CC-BY 4.0 or [SCP-Wiki CC-BY-SA 3.0](https://scp-wiki.wikidot.
 
 ## Contributing
 
-I prefer to push new assets on my own, but I am accepting anhancements to already published assets.
+I prefer to push new assets on my own, but I am accepting enhancements to already published assets.
